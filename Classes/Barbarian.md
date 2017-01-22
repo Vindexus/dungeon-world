@@ -116,11 +116,11 @@ When you defy a danger caused by movement (maybe falling off a narrow bridge or 
 
 ## Advanced Moves (6 - 10)
 
-# A Good Day To Die
+### A Good Day To Die
 
 As long as you have less than your CON in current HP (or 1, whichever is higher) take +1 ongoing. 
 
-# Kill ‘Em All
+### Kill ‘Em All
 
 Requires: Appetite for Destruction
 
