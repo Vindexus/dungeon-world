@@ -130,11 +130,15 @@ When you **allow your animal companion to take a blow that was meant for you**, 
 
 ### Blot Out The Sun 
 
-When you Volley you may spend extra ammo before rolling. For each point of ammo spent you may choose an extra target. Roll once and apply damage to all targets. Well-trained Choose another training for your animal companion. 
+When you Volley you may spend extra ammo before rolling. For each point of ammo spent you may choose an extra target. Roll once and apply damage to all targets. 
 
-### God Amidst 
+### Well-trained 
 
-The Wastes Dedicate yourself to a deity (name a new one or choose one that’s already been established). You gain the commune and cast a spell cleric moves. When you select this move, treat yourself as a cleric of level 1 for using spells. Every time you gain a level thereafter, increase your effective cleric level by 1. 
+Choose another training for your animal companion. 
+
+### God Amidst The Wastes
+
+Dedicate yourself to a deity (name a new one or choose one that’s already been established). You gain the commune and cast a spell cleric moves. When you select this move, treat yourself as a cleric of level 1 for using spells. Every time you gain a level thereafter, increase your effective cleric level by 1. 
 
 ### Follow Me 
 
