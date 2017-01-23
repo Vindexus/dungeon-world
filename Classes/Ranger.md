@@ -1,4 +1,4 @@
-# Paladin
+# Ranger
 
 ## Alignments
 
