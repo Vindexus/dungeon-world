@@ -166,10 +166,9 @@ You are initiated in the old ways, the ways of sacrifice. Choose something your 
  
 ## Starting Gear
 
-* Dungeon Rations (5 uses, 1 weight)
-* Dagger (hand, 1 weight) 
-
-Some Token of where you’ve travelled or where you’re from. 
+ * Dungeon Rations (5 uses, 1 weight)
+ * Dagger (hand, 1 weight) 
+ * Some Token of where you’ve travelled or where you’re from. 
 
 Choose your weapon:
 
