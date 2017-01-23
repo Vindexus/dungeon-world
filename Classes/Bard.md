@@ -1,5 +1,12 @@
 # Bard
 
+## Looks
+
+ * BODY: Fit, well-fed, thin
+ * EYES: Knowing, fiery, joyous
+ * HAIR: Fancy, wild, stylish cap
+ * CLOTHES: Finery, traveling, poor
+
 ## Alignments
 
 ### Good
@@ -183,3 +190,32 @@ When you **parley with someone**, on a 7+ you also take +1 forward with them and
 ### Multiclass Master
 
 Get a move from another class. Treat your level as one lower for choosing the move.
+
+## Starting Gear
+
+ * Dungeon Rations (5 uses, 1 weight) 
+
+Choose one, all are weight 0 for you: 
+
+ - [ ] Your father’s Mandolin, repaired 
+ - [ ] A fine Lute, a gift from a noble 
+ - [ ] The Pipes with which you courted your first love. 
+ - [ ] A stolen Horn A Fiddle, never before played 
+ - [ ] A Songbook in a forgotten tongue 
+
+Choose your clothing:
+
+ - [ ] Leather Armor (1 armor, worn, 1 weight) 
+ - [ ] Ostentatious Clothes (worn, 0 weight) 
+
+Choose your armament: 
+
+ - [ ] Dueling Rapier (close, precise, 2 weight)
+ - [ ] Worn Bow (near, 2 weight), Bundle of Arrows (3 ammo, 1 weight), Short Sword (close, 1 weight) 
+
+Choose one:
+
+ - [ ] Adventuring Gear (5 uses, 1 weight) 
+ - [ ] Bandages (3 uses, slow, 0 weight) 
+ - [ ] Halfling Pipeleaf (6 uses, 0 weight)
+ - [ ] 3 coins
