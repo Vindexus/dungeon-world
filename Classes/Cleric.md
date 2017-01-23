@@ -45,19 +45,19 @@ Wesley, Brinton, Jon, Sara, Hawthorn, Elise, Clarke, Lenore, Piotr, Dahlia, Carm
 
 You serve and worship some deity or power which grants you spells. Give your god a name and choose your deity’s domain: 
 
- [] Healing and Restoration
- [] Bloody Conquest
- [] Civilization
- [] Knowledge and Hidden Things
- [] The Downtrodden and Forgotten
- [] What Lies Beneath
+ - [ ] Healing and Restoration
+ - [ ] Bloody Conquest
+ - [ ] Civilization
+ - [ ] Knowledge and Hidden Things
+ - [ ] The Downtrodden and Forgotten
+ - [ ] What Lies Beneath
 
 Choose one precept of your religion: 
 
- [] It preaches the sanctity of suffering, add Petition: Suffering
- [] It’s clutish and insular, add Petition: Gaining Secrets
- [] It Observes important sacrificial rites, add Petition: Offering
- [] It believes in trial by combat, add Petition: Personal Victory
+ - [ ] It preaches the sanctity of suffering, add Petition: Suffering
+ - [ ] It’s clutish and insular, add Petition: Gaining Secrets
+ - [ ] It Observes important sacrificial rites, add Petition: Offering
+ - [ ] It believes in trial by combat, add Petition: Personal Victory
 
 ### Divine Guidance
 
