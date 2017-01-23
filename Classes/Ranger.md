@@ -45,9 +45,7 @@ Jonah, Halek, Brandon, Emory, Shrike, Nora, Diana
 
 You have a supernatural connection with a loyal animal. You can’t talk to it per se but it always acts as you wish it to. Name your animal companion: ____.
 
-Choose a species:
-
-Wolf, Cougar, Bear, Eagle, Dog, Hawk, Cat, Owl, Pigeon, Rat, Mule, ____.
+Choose a species: Wolf, Cougar, Bear, Eagle, Dog, Hawk, Cat, Owl, Pigeon, Rat, Mule, ____.
 
 Choose a base:
 
@@ -56,17 +54,11 @@ Choose a base:
  - [ ] Ferocity +1, Cunning +2, Instinct +1, 1 Armor 
  - [ ] Ferocity +3, Cunning +1, Instinct +2, 1 Armor 
 
-Choose as many strengths as its Ferocity: 
+Choose as many strengths as its Ferocity: Fast, Burly, Huge, Calm, Adaptable, Tireless, Quick Reflexes, Camouflage, Ferocious, Intimidating, Keen Senses, Stealthy, ____
 
-Fast, Burly, Huge, Calm, Adaptable, Tireless, Quick Reflexes, Camouflage, Ferocious, Intimidating, Keen Senses, Stealthy, ____
+Your animal companion is trained to fight humanoids. Choose as many additional trainings as its Cunning: Hunt, Search, Scout, Guard, Labor, Travel, Fight Monsters, Perform, ____.
 
-Your animal companion is trained to fight humanoids. Choose as many additional trainings as its Cunning: 
-
-Hunt, Search, Scout, Guard, Labor, Travel, Fight Monsters, Perform, ____.
-
-Choose as many weaknesses as its Instinct: 
-
-Flighty, Savage, Slow, Broken, Frightening, Forgetful, Stubborn, Lame, ____.
+Choose as many weaknesses as its Instinct: Flighty, Savage, Slow, Broken, Frightening, Forgetful, Stubborn, Lame, ____.
 
 ### Hunt & Track (WIS) 
 
