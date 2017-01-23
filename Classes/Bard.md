@@ -2,9 +2,17 @@
 
 ## Alignments
 
+### Good
+
+Perform your art to aid someone else.
+
+### Neutral
+
+Avoid a conflict or defuse a tense situation.
+
 ### Chaotic
 
-Eschew a convention of the civilized world.
+Spur others to significant and unplanned decisive action.
 
 ## Bonds
 
