@@ -1,5 +1,12 @@
 # Barbarian
 
+## Looks
+
+ * BODY: Mighty thews, long shanks, scrawny, supple
+ * EYES: Tormented, haunted, wild, shrouded
+ * DECORATION: Tattoos, bejeweled, unmarred
+ * CLOTHES: Scraps, silks, scavenger’s outfit, weather-inappropriate
+
 ## Alignments
 
 ### Chaotic
@@ -156,3 +163,20 @@ You are initiated in the old ways, the ways of sacrifice. Choose something your 
  * On a 10+ the GM will grant you insight into your current trouble or a boon to help you. 
  * On a 7-9 the sacrifice is not enough and your gods take of your flesh as well, but still grant you some insight or boon.
  * On a miss, you earn the ire of the fickle spirits.
+ 
+## Starting Gear
+
+* Dungeon Rations (5 uses, 1 weight)
+* Dagger (hand, 1 weight) 
+
+Some Token of where you’ve travelled or where you’re from. 
+
+Choose your weapon:
+
+ - [ ] Axe (close, 1 weight) 
+ - [ ] Two-handed Sword (close, +1 damage, 2 weight)
+
+Choose one:
+
+ - [ ] Adventuring Gear (5 uses, 1 weight) and Dungeon Rations (5 uses, ration, 1 weight) 
+ - [ ] Chainmail (1 armor, worn, 1 weight)
