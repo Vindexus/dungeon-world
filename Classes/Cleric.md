@@ -1,5 +1,12 @@
 # Cleric
 
+## Looks
+
+ * BODY: Thin, knobby, flabby
+ * EYES: Kind, sharp, sad
+ * HAIR: Strange, tonsure, bald 
+ * CLOTHES: Flowing robes, habit, common
+
 ## Alignments
 
 ### Good
@@ -350,3 +357,24 @@ Choose one event in the target’s past. All effects of that event, including da
 #### Divine Presence (ongoing)
 
 Every creature must ask your leave to enter your presence, and you must give permission aloud for them to enter. Any creature without your leave takes an extra 1d10 damage whenever they take damage in your presence. While this spell is ongoing you take -1 to cast a spell.
+
+## Starting Gear
+
+ * Some Symbol of the Devine (1 weight), describe it. 
+ * Dungeon Rations (5 uses, ration, 1 weight)
+ 
+Choose your defenses: 
+
+ - [ ] Chainmail (1 armor, worn, 1 weight)
+ - [ ] Shield (+1 armor, 2 weight)
+
+Choose your armament: 
+
+ - [ ] Warhammer (close, 1 weight)
+ - [ ] Mace (close, 1 weight)
+ - [ ] Staff (close, two-handed, 1 weight) and Bandages (3 uses, slow, 0 weight)
+
+Choose one:
+
+ - [ ] Adventuring Gear (5 uses, 1 weight) and Dungeon Rations (5 uses, ration, 1 weight)
+ - [ ] Healing Potion (0 weight)
